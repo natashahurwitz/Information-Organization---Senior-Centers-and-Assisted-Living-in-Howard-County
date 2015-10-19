@@ -9,12 +9,12 @@ Howard County Open Howard. (2015). Assisted Living Small Database [Data set] Ret
 Assisted Living Large gives a list of licensed assisted living facilities with 17 or more beds and was last updated in October of 2014.  It lists a Facility ID, Name, Street Address, City, State, Zipcode, Total Number of Beds and geom or coordinates to plot on a map.
 Howard County Open Howard. (2015). Assisted Living Large Database [Data set] Retrieved from https://data.howardcountymd.gov. 
 
-4. By combining the datasets, I could make a map that would plot the Senior Centers and the assisted living facilities, both large and small, so that we could answer the question: How accessible are Howard County Seniors Centers to seniors living in assisted living facilities?  The map could use circles that would increase in size based on the number of beds in the Assisted Living Facility.  Small facilities could be shown in green dots and large facilities with blue dots.  The Senior Centers could be shown in red and a key would appear in the lower right-hand corner explaining the colors and sizes.
+4. Not included here.
 
 5. Name of Processing Document: ProcessingDocumentation.txt
 
 6. Citation: 
 Natasha Hurwitz. (2015). Howard County Senior Centers and Small Assisted Living Facilities [Data set]. Unpublished raw data.
 
-The appropriate license is the Creative Commons Zero v1.0 Universal.   I would like to share my work and have others use it freely. (creativecommons.org).
+The appropriate license is the Creative Commons Zero v1.0 Universal.   I would like to share my work and have others use it freely. (Creative Commons (2015). Choose a License. Retreived from: creativecommons.org/choose.)
 
