@@ -5,10 +5,10 @@ Howard County Open Howard. (2015). Senior Center Database [Data set] Retrieved f
 3. Two data sets that could be combined with the Senior Center Database are Assisted Living Small and Assisted Living Large.  
 Assisted Living Small gives a list of licensed assisted living facilities with less than 17 beds and was updated last in October of 2014. It lists a Facility ID, Name, Street Address, City, State, Zipcode, Total Number of Beds and geom or coordinates to plot on a map.
 Howard County Open Howard. (2015). Assisted Living Small Database [Data set] Retrieved from https://data.howardcountymd.gov. 
-
+ 
 Assisted Living Large gives a list of licensed assisted living facilities with 17 or more beds and was last updated in October of 2014.  It lists a Facility ID, Name, Street Address, City, State, Zipcode, Total Number of Beds and geom or coordinates to plot on a map.
 Howard County Open Howard. (2015). Assisted Living Large Database [Data set] Retrieved from https://data.howardcountymd.gov. 
-
+ 
 4. Not included here.
 
 5. Name of Processing Document: ProcessingDocumentation.txt
